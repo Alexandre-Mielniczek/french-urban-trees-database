@@ -29,7 +29,7 @@ The dataset includes trees up to 400 years old, compared with 100 years in McPhe
 
 This methodology ensures a robust and reproducible compilation of French urban tree data, suitable for calibrating and contextualizing growth models in LCA applications.
 
-#french-urban-trees-database.xlsx
+# french-urban-trees-database.xlsx
 This file is a tabular export in Excel format.
 
 The file has been cleaned as described in the methodology section above.
