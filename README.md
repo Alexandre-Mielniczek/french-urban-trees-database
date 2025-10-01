@@ -33,3 +33,10 @@ This methodology ensures a robust and reproducible compilation of French urban t
 This file is a tabular export in Excel format.
 
 The file has been cleaned as described in the methodology section above.
+
+# How to cite
+Mielniczek (2025). Improved consideration of outdoor spaces in eco-design tools for urban projects. 
+
+PhD thesis, École Nationale des Ponts et Chaussées (ENPC) & Institut national de l'information géographique et forestière (IGN), Navier and LaSTIG Laboratories. 
+
+DOI/URL (HAL/Zenodo). => To be updated
